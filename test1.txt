@@ -1,4 +1,0 @@
-Sample 1
-sample 3
-
-Pragraph added to create merge conflict
